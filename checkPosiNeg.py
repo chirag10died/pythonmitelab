@@ -7,6 +7,7 @@ while True:
         print("positive number")
         posNum=posNum+num
     elif (num<0):
+        print("Negative number")
         negNum=negNum+num
     else:
         print("Zero has been entered")
